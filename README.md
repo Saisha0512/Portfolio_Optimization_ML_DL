@@ -1,7 +1,7 @@
 # Portfolio Optimization using Machine Learning & Deep Learning
 
 Welcome to the **Portfolio Optimization with ML/DL** repository!  
-This project explores and implements various portfolio optimization strategies leveraging the power of Machine Learning (ML) and Deep Learning (DL) techniques using Python and Jupyter Notebooks.
+This project explores and implements various portfolio optimization strategies leveraging the power of Machine Learning (ML) and Deep Learning (DL) techniques.
 
 ## 📝 Problem Statement
 Investors often face challenges in:
